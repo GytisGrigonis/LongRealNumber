@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1519813214 source:c:\users\gytis\desktop\kakas\c\ilgas realus skaicius\ilgas\trsm\functions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"header.h"
+
+1519813351 c:\users\gytis\desktop\kakas\c\ilgas realus skaicius\ilgas\trsm\header.h
+
+1519820591 source:c:\users\gytis\desktop\kakas\c\ilgas realus skaicius\ilgas\trsm\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"header.h"
+
